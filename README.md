@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Eduardo 👋
+# Olá, eu sou o Edu 👋
 
 ### SRE / Platform Engineer · Santo André, SP 🇧🇷
 
