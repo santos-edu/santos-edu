@@ -21,7 +21,6 @@ Mantenho infraestrutura confiável e observável em **Kubernetes**, **AWS** e **
 - 📄 Currículo completo: **[Português](curriculo.md)** · **[English](resume.md)**
 - 🔭 Hoje: liderando adoção de **OpenTelemetry**, self-service de infraestrutura e métricas em alta disponibilidade
 - 🌱 Estudando sempre — atualmente afiando inglês e cavando mais fundo em Platform Engineering
-- ⚽ Fora do terminal: torcedor do Santos FC, viagens com natureza por perto, cinema e anime
 
 ## 🧰 Stack
 
@@ -50,13 +49,15 @@ Mantenho infraestrutura confiável e observável em **Kubernetes**, **AWS** e **
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 GitHub
+## 🌍 Fora do terminal
 
-<div align="center">
+Torcedor do Santos FC 🐳, gosto de viajar (de preferência com natureza por perto), cinema e anime.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santos-edu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-edu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+## 🤖 IA no meu dia a dia
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santos-edu&hide_border=true&theme=tokyonight" />
+Uso IA como ferramenta de trabalho — pra acelerar automação, rascunhar documentação, explorar abordagens e tirar o tédio do toil repetitivo. Mas trato como **copiloto, não piloto**: o julgamento e a responsabilidade continuam comigo.
 
-</div>
+- **Qualidade > volume.** Evito *workslop* — aquele texto/código gerado em massa que parece pronto mas só empurra o trabalho de revisão pra próxima pessoa. Se eu não entendi e não revisei, não vai pra frente.
+- **Risco operacional.** IA não toca produção sem revisão humana e guardrails. Sugestão é proposta, não verdade: IaC, deploy e automação passam por validação, e a gente pensa no *blast radius* antes.
+- **Segurança e privacidade.** Nada de segredo, dado de cliente ou informação sensível em modelo externo. Ferramenta aprovada, menor privilégio e atenção a por onde o dado trafega e onde ele fica.
+- **Eficiência de verdade.** Contexto claro e pedido específico rendem muito mais que prompt genérico. A IA é ótima pra primeira versão e pra destravar — o valor está no que eu faço com aquilo depois.

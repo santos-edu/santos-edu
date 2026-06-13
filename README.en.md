@@ -21,7 +21,6 @@ I keep infrastructure reliable and observable on **Kubernetes**, **AWS** and **G
 - 📄 Full résumé: **[English](resume.md)** · **[Português](curriculo.md)**
 - 🔭 Currently: leading **OpenTelemetry** adoption, infrastructure self-service and high-availability metrics
 - 🌱 Always learning — right now sharpening my English and digging deeper into Platform Engineering
-- ⚽ Away from the terminal: Santos FC supporter, travel with nature nearby, cinema and anime
 
 ## 🧰 Stack
 
@@ -50,13 +49,15 @@ I keep infrastructure reliable and observable on **Kubernetes**, **AWS** and **G
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 GitHub
+## 🌍 Away from the terminal
 
-<div align="center">
+Santos FC 🐳 supporter, I like to travel (ideally with nature nearby), cinema and anime.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santos-edu&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos-edu&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+## 🤖 AI in my day-to-day
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=santos-edu&hide_border=true&theme=tokyonight" />
+I use AI as a working tool — to speed up automation, draft documentation, explore approaches and take the boredom out of repetitive toil. But I treat it as a **copilot, not the pilot**: judgment and accountability stay with me.
 
-</div>
+- **Quality > volume.** I avoid *workslop* — mass-generated text/code that looks finished but just pushes the review work onto the next person. If I didn't understand and review it, it doesn't ship.
+- **Operational risk.** AI doesn't touch production without human review and guardrails. A suggestion is a proposal, not the truth: IaC, deploys and automation get validated, and we think about the *blast radius* first.
+- **Security & privacy.** No secrets, customer data or sensitive information in external models. Approved tooling, least privilege, and attention to where data travels and where it rests.
+- **Real efficiency.** Clear context and a specific ask beat a generic prompt every time. AI is great for a first draft and for getting unstuck — the value is in what I do with it afterwards.
