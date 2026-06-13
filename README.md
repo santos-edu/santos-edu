@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santos-eduardo/)
 [![Currículo](https://img.shields.io/badge/📄-Currículo%20%26%20Sobre-2ea44f?style=for-the-badge)](https://github.com/santos-edu/a-estrada-ate-aqui)
+[![Valores](https://img.shields.io/badge/💫-Valores%20%26%20Missão-8957e5?style=for-the-badge)](valores-e-missao.md)
 ![Profile views](https://komarev.com/ghpvc/?username=santos-edu&style=for-the-badge&color=58A6FF&label=Visitas)
 
 </div>
