@@ -1,27 +1,27 @@
 <div align="center">
 
-# Olá, eu sou o Eduardo 👋
+# Hi, I'm Eduardo 👋
 
-### SRE / Platform Engineer · Santo André, SP 🇧🇷
+### SRE / Platform Engineer · Santo André, Brazil 🇧🇷
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Pavimentando+estradas+para+quem+desenvolve;Paving+roads+for+developers" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Paving+roads+for+developers;Pavimentando+estradas+para+quem+desenvolve" alt="typing" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santos-eduardo/)
-[![Currículo](https://img.shields.io/badge/📄-Currículo-2ea44f?style=for-the-badge)](curriculo.md)
-[![Valores](https://img.shields.io/badge/💫-Valores%20%26%20Missão-8957e5?style=for-the-badge)](valores-e-missao.md)
+[![Résumé](https://img.shields.io/badge/📄-Résumé-2ea44f?style=for-the-badge)](resume.md)
+[![Values](https://img.shields.io/badge/💫-Values%20%26%20Mission-8957e5?style=for-the-badge)](valores-e-missao.md)
 
-🇧🇷 Português · [🇺🇸 English](README.en.md)
+[🇧🇷 Português](README.md) · 🇺🇸 English
 
 </div>
 
 ---
 
-Mantenho infraestrutura confiável e observável em **Kubernetes**, **AWS** e **GCP**, e construo ferramentas e padrões de Platform Engineering que facilitam a vida de quem desenvolve. Curto automação, IaC bem feita e monitoramento que conta a história certa na hora certa.
+I keep infrastructure reliable and observable on **Kubernetes**, **AWS** and **GCP**, and I build Platform Engineering tooling and standards that make developers' lives easier. I'm into automation, solid IaC and monitoring that tells the right story at the right time.
 
-- 📄 Currículo completo: **[Português](curriculo.md)** · **[English](resume.md)**
-- 🔭 Hoje: liderando adoção de **OpenTelemetry**, self-service de infraestrutura e métricas em alta disponibilidade
-- 🌱 Estudando sempre — atualmente afiando inglês e cavando mais fundo em Platform Engineering
-- ⚽ Fora do terminal: torcedor do Santos FC, viagens com natureza por perto, cinema e anime
+- 📄 Full résumé: **[English](resume.md)** · **[Português](curriculo.md)**
+- 🔭 Currently: leading **OpenTelemetry** adoption, infrastructure self-service and high-availability metrics
+- 🌱 Always learning — right now sharpening my English and digging deeper into Platform Engineering
+- ⚽ Away from the terminal: Santos FC supporter, travel with nature nearby, cinema and anime
 
 ## 🧰 Stack
 

@@ -38,4 +38,4 @@ Tento comunicar sem ambiguidade. Direto não é o oposto de gentil.
 
 ---
 
-[⬅️ Voltar ao perfil](https://github.com/santos-edu) · [📄 Currículo](https://github.com/santos-edu/a-estrada-ate-aqui)
+[⬅️ Voltar ao perfil](https://github.com/santos-edu) · [📄 Currículo](curriculo.md)
