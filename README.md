@@ -4,7 +4,7 @@
 
 ### SRE / Platform Engineer · Santo André, SP 🇧🇷
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Pavimentando+estradas+para+quem+desenvolve;Paving+roads+for+developers" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Pavimentando+estradas+para+quem+desenvolve;Paving+roads+for+developers" alt="typing" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eduardo%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santos-eduardo/)
 [![Currículo](https://img.shields.io/badge/📄-Currículo-2ea44f?style=for-the-badge)](curriculo.md)
